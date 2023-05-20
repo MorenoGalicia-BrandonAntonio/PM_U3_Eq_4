@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="Plantilla.asm" />
+    <MASM Include="P_2_readchar.asm" />
+    <MASM Include="P_1_Macros.asm" />
+    <MASM Include="P_3_RandomRange.asm" />
+    <MASM Include="P_4_CicloRango.asm" />
+    <MASM Include="P_5_CicloRango2.asm" />
+    <MASM Include="P_6_waitmsg.asm" />
+    <MASM Include="P_7_CallDelay.asm" />
+    <MASM Include="P_8_Loop.asm" />
+    <MASM Include="P_9_Println.asm" />
+    <MASM Include="Ej_2_EdadPromedio.asm" />
+    <MASM Include="Ej_3_ElNaufragoSatisfecho.asm" />
+    <MASM Include="P_13_MsgBox.asm" />
+    <MASM Include="P_12.asm" />
+    <MASM Include="P_14_MsgBoxV2.asm" />
+    <MASM Include="P_15_MsgBoxAsk.asm" />
+    <MASM Include="P_16_SumConproc.asm" />
+    <MASM Include="Ej_4_Consultorio.asm" />
+    <MASM Include="Ej_4_ConsultorioV2.asm" />
+    <MASM Include="Ej_5_BancoPuebloDesconocido.asm" />
+    <MASM Include="P_17_PromedioM_Salones.asm" />
+    <MASM Include="P_U4_1_Vectores_y_Cadenas.asm" />
+    <MASM Include="P_U4_2_Vectores2.asm" />
+    <MASM Include="P_U4_3.asm" />
+    <MASM Include="P_U4_4.asm" />
+    <MASM Include="Ej_6_ElCometa.asm" />
+    <MASM Include="Ej_8_EmpresaBonoMensual.asm" />
+    <MASM Include="Ej_9_EmpresaSeguros.asm" />
+    <MASM Include="Ej_10_TiendaBonoAntiguedad.asm" />
+    <MASM Include="Ej_11_AlumnosViaje.asm" />
+    <MASM Include="Ej_12_DiciembrePaquete.asm" />
+    <MASM Include="Ej_13_AhorroMensual.asm" />
+    <MASM Include="Ej_15_EmpleadoHoraSalario.asm" />
+    <MASM Include="Ej_16_TikiTaka.asm" />
+    <MASM Include="Ej_17_SalarioProfesor.asm" />
+    <MASM Include="Ej_18_ElNaufrago2.asm" />
+    <MASM Include="Ej_19_NFocos.asm" />
+    <MASM Include="Proyecto_Calculadora.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="macros.inc" />
+  </ItemGroup>
+</Project>
